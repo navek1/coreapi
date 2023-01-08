@@ -1,0 +1,14 @@
+C:\Users\nkrish7x\source\repos\ConsoleApp1\SingleTon\bin\Debug\netcoreapp3.1\SingleTon.exe
+C:\Users\nkrish7x\source\repos\ConsoleApp1\SingleTon\bin\Debug\netcoreapp3.1\SingleTon.deps.json
+C:\Users\nkrish7x\source\repos\ConsoleApp1\SingleTon\bin\Debug\netcoreapp3.1\SingleTon.runtimeconfig.json
+C:\Users\nkrish7x\source\repos\ConsoleApp1\SingleTon\bin\Debug\netcoreapp3.1\SingleTon.runtimeconfig.dev.json
+C:\Users\nkrish7x\source\repos\ConsoleApp1\SingleTon\bin\Debug\netcoreapp3.1\SingleTon.dll
+C:\Users\nkrish7x\source\repos\ConsoleApp1\SingleTon\bin\Debug\netcoreapp3.1\SingleTon.pdb
+C:\Users\nkrish7x\source\repos\ConsoleApp1\SingleTon\obj\Debug\netcoreapp3.1\SingleTon.csproj.AssemblyReference.cache
+C:\Users\nkrish7x\source\repos\ConsoleApp1\SingleTon\obj\Debug\netcoreapp3.1\SingleTon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkrish7x\source\repos\ConsoleApp1\SingleTon\obj\Debug\netcoreapp3.1\SingleTon.AssemblyInfoInputs.cache
+C:\Users\nkrish7x\source\repos\ConsoleApp1\SingleTon\obj\Debug\netcoreapp3.1\SingleTon.AssemblyInfo.cs
+C:\Users\nkrish7x\source\repos\ConsoleApp1\SingleTon\obj\Debug\netcoreapp3.1\SingleTon.csproj.CoreCompileInputs.cache
+C:\Users\nkrish7x\source\repos\ConsoleApp1\SingleTon\obj\Debug\netcoreapp3.1\SingleTon.dll
+C:\Users\nkrish7x\source\repos\ConsoleApp1\SingleTon\obj\Debug\netcoreapp3.1\SingleTon.pdb
+C:\Users\nkrish7x\source\repos\ConsoleApp1\SingleTon\obj\Debug\netcoreapp3.1\SingleTon.genruntimeconfig.cache

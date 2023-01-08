@@ -1,0 +1,14 @@
+C:\Users\nkrish7x\source\repos\ConsoleApp1\AsyncDelegate\bin\Debug\netcoreapp3.1\AsyncDelegate.exe
+C:\Users\nkrish7x\source\repos\ConsoleApp1\AsyncDelegate\bin\Debug\netcoreapp3.1\AsyncDelegate.deps.json
+C:\Users\nkrish7x\source\repos\ConsoleApp1\AsyncDelegate\bin\Debug\netcoreapp3.1\AsyncDelegate.runtimeconfig.json
+C:\Users\nkrish7x\source\repos\ConsoleApp1\AsyncDelegate\bin\Debug\netcoreapp3.1\AsyncDelegate.runtimeconfig.dev.json
+C:\Users\nkrish7x\source\repos\ConsoleApp1\AsyncDelegate\bin\Debug\netcoreapp3.1\AsyncDelegate.dll
+C:\Users\nkrish7x\source\repos\ConsoleApp1\AsyncDelegate\bin\Debug\netcoreapp3.1\AsyncDelegate.pdb
+C:\Users\nkrish7x\source\repos\ConsoleApp1\AsyncDelegate\obj\Debug\netcoreapp3.1\AsyncDelegate.csproj.AssemblyReference.cache
+C:\Users\nkrish7x\source\repos\ConsoleApp1\AsyncDelegate\obj\Debug\netcoreapp3.1\AsyncDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkrish7x\source\repos\ConsoleApp1\AsyncDelegate\obj\Debug\netcoreapp3.1\AsyncDelegate.AssemblyInfoInputs.cache
+C:\Users\nkrish7x\source\repos\ConsoleApp1\AsyncDelegate\obj\Debug\netcoreapp3.1\AsyncDelegate.AssemblyInfo.cs
+C:\Users\nkrish7x\source\repos\ConsoleApp1\AsyncDelegate\obj\Debug\netcoreapp3.1\AsyncDelegate.csproj.CoreCompileInputs.cache
+C:\Users\nkrish7x\source\repos\ConsoleApp1\AsyncDelegate\obj\Debug\netcoreapp3.1\AsyncDelegate.dll
+C:\Users\nkrish7x\source\repos\ConsoleApp1\AsyncDelegate\obj\Debug\netcoreapp3.1\AsyncDelegate.pdb
+C:\Users\nkrish7x\source\repos\ConsoleApp1\AsyncDelegate\obj\Debug\netcoreapp3.1\AsyncDelegate.genruntimeconfig.cache
